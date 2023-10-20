@@ -1,0 +1,7 @@
+spring:
+#  main:
+#    banner-mode: OFF
+  banner:
+    location: classpath:banner123.txt
+server:
+   port: 8081
